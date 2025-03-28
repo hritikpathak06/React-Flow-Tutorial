@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.react-flow__edge-interaction{
+  border: 3px solid black !important;
+}
